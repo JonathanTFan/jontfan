@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jontfan
+- 👋 Hi, I’m @JonathanTFan
 - 👀 I’m interested in ...art, tech, & music.
 - 🌱 I’m currently learning ...JavaScript via Grasshopper & ProCreate on iOS.
 - 💞️ I’m looking to collaborate on ...possible projects in the near future!
